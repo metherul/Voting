@@ -1,1 +1,1 @@
-# Voter Registar
+# Voter Registrar
