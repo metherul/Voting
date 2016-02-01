@@ -153,21 +153,18 @@ namespace Voting
                     {
                         storageString = Base64Decode(storageString);
 
-                        debugTextBox.AppendText("\n Voter ID: " + storageString);
+                        debugTextBox.AppendText("\n Voter ID: " + storageString + "\n");
 
                         voterID.Add(storageString);
                     }
 
                     catch
                     {
-                        debugTextBox.AppendText("\n Voter ID: " + storageString);
+                        debugTextBox.AppendText("\n Voter ID: " + storageString + "\n");
 
                         voterID.Add(storageString);
                     }
-                }
 
-                else if (counter == 4)
-                {
                     counter = 0;
                 }
             }

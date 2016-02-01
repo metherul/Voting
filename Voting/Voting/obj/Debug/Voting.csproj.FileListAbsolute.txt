@@ -7,3 +7,12 @@ C:\C# Projects\Voting\Voting\obj\Debug\Voting.csproj.GenerateResource.Cache
 C:\C# Projects\Voting\Voting\obj\Debug\Voting.exe
 C:\C# Projects\Voting\Voting\obj\Debug\Voting.pdb
 C:\C# Projects\Voting\Voting\obj\Debug\Voting.MainWindow.resources
+C:\Github\Voting\Voting\Voting\bin\Debug\Voting.exe.config
+C:\Github\Voting\Voting\Voting\bin\Debug\Voting.exe
+C:\Github\Voting\Voting\Voting\bin\Debug\Voting.pdb
+C:\Github\Voting\Voting\Voting\obj\Debug\Voting.csprojResolveAssemblyReference.cache
+C:\Github\Voting\Voting\Voting\obj\Debug\Voting.MainWindow.resources
+C:\Github\Voting\Voting\Voting\obj\Debug\Voting.Properties.Resources.resources
+C:\Github\Voting\Voting\Voting\obj\Debug\Voting.csproj.GenerateResource.Cache
+C:\Github\Voting\Voting\Voting\obj\Debug\Voting.exe
+C:\Github\Voting\Voting\Voting\obj\Debug\Voting.pdb
